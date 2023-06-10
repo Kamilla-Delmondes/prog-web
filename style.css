@@ -1,0 +1,65 @@
+* {   
+     font-family: "Times New";
+}
+header {
+    color: #5ba1da;
+    padding: 20px;
+    text-align: center;
+    border-radius: 9px;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    height: 40;
+    width: 40;
+}
+
+input{
+    height: 60;
+    width: 100;
+}
+.image{
+        border: 1px solid black;
+        max-width:200px;
+        max-height:150px;
+}
+p {
+    margin: 0;
+    font-size: 25px;
+    text-align: center;
+}
+div{
+    text-align: center;
+    margin: 0;
+}
+#team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 40px;
+}
+.team-member {
+    width: 300px;
+    margin: 20px;
+
+}
+input {
+    width: 300px;
+    margin: 20px;
+}
+select {
+    width: 300px;
+    margin: 20px;
+}
+textarea {
+    width: 300px;
+    margin: 20px;
+}
